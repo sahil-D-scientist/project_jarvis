@@ -46,13 +46,20 @@ Jarvis is designed to be your **personal AI assistant**, capable of handling a v
 Jarvis AI comes with an **interactive graphical interface** built using `PyQt5`. The GUI:
 - Displays **animations** (GIFs) when Jarvis is activated.
 - Shows **real-time time and date updates**.
-- Allows **manual interaction** (start/stop the assistant).
+- Allows **manual interaction** (Run/Terminate the assistant).
 - Runs **Jarvis AI in a separate thread** to avoid UI lag.
 
 ### 💡 Why PyQt5?
 - **Rich GUI elements** for a professional look.
 - **Thread-safe execution** ensures Jarvis runs smoothly without freezing.
 - **Flexible & scalable** for future AI enhancements.
+
+---
+## 🖥️ Jarvis AI Dashboard Preview
+
+Here is a preview of the **interactive GUI dashboard** built using `PyQt5`:
+
+![Jarvis AI Dashboard](assets/dashboard.png)
 
 ---
 
