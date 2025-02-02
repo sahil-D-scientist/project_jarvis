@@ -75,3 +75,46 @@ Before running Jarvis, ensure you have the following installed:
    ```
 
 3. **Speak commands** and interact with Jarvis.
+
+
+---
+
+## 🛠️ Technologies & Libraries Used
+
+| Feature                 | Technology Used          |
+|-------------------------|-------------------------|
+| **Voice Recognition**   | `speech_recognition`    |
+| **Speech Output**       | `pyttsx3`               |
+| **GUI Framework**       | `PyQt5`                 |
+| **Web Scraping**        | `BeautifulSoup`         |
+| **Game Development**    | `pygame`                |
+| **Web Automation**      | `pyautogui`, `keyboard` |
+| **AI Translation**      | `googletrans`           |
+| **Weather Updates**     | `wttr.in API`           |
+| **News Fetching**       | `feedparser`            |
+| **Math Processing**     | `word2number`           |
+| **YouTube & Google Search** | `pywhatkit`        |
+
+---
+
+## 🎯 Why is Jarvis an Inspiration for Engineers?
+🚀 **Jarvis AI represents the future of AI-driven personal assistants!**
+
+This project is a **perfect blend of AI, automation, and GUI interaction**, demonstrating:
+- **How to integrate AI APIs with a voice-controlled assistant.**
+- **The power of automation in day-to-day tasks.**
+- **How to create an interactive PyQt5 GUI with real-time updates.**
+- **Building self-learning assistants capable of improving over time.**
+
+It is an excellent project for **engineering students, AI enthusiasts, and Python developers** who want to **explore real-world AI applications**.
+
+---
+
+## 📌 Future Enhancements
+
+- 🤖 **Integrate GPT-4 for advanced conversational AI.**
+- 🏠 **Smart Home Control** (Control IoT devices).
+- 🔐 **Facial Recognition Login System.**
+- 📊 **Personalized AI learning based on user habits.**
+- 🎙️ **Multi-language support with NLP improvements.**
+
