@@ -26,6 +26,8 @@ import feedparser
 import pywhatkit
 from word2number import w2n
 from time import sleep
+import sys
+from PyQt5.QtWidgets import QApplication
 score = 0  # Initialize score
 # Initialize voice engine
 listener = sr.Recognizer()
@@ -202,9 +204,11 @@ def run_alexa():
         elif "how are you" in command: #checked
             talk("I'm doing well, thank you for asking!,how about you ")
 
-        elif "goodbye" in command or "exit" in command or "thank you" in command : #checked
+        elif "goodbye" in command or "exit" in command or "thank you" in command: #checked
             talk("Goodbye! Have a great day.")
-            break
+            QApplication.instance().quit()  # Properly exit PyQt5 GUI
+            sys.exit(0)  # Ensure full program termination
+
         elif 'hello boy' in command: #checked
 
             command.replace('hello boy', '')
@@ -369,7 +373,7 @@ def run_alexa():
             else:
                 talk("I didn't catch that. Please try again.")
 
-        elif "don't listen" in command or "stop listening" in command:  # Checked
+        elif "don't listen" in command or "stop listening" in command or "sleep" in command:  # Checked
 
 
             talk("For how much time do you want me to go to sleep")
@@ -529,9 +533,10 @@ def run_alexa():
             pygame.quit()
 
 
-        elif "sleep" in command or "quit" in command: #checked
+        elif "shutdown" in command or "quit" in command: #checked
             talk("Goodbye! Have a great day.")
-            break
+            QApplication.instance().quit()  # Properly exit PyQt5 GUI
+            sys.exit(0)  # Ensure full program termination
 
         else:
             talk("Please say again sir")
