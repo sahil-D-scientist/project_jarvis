@@ -12,7 +12,7 @@ With Jarvis, every engineer can experience the thrill of **building an intellige
 ---
 
 ## ✨ Key Features & Functionalities
-Jarvis is designed to be your **personal AI assistant**, capable of handling a variety of commands, including:
+Jarvis is designed to be your **personal AI assistant**, capable of handling a variety of commands and automating simple tasks, making daily interactions more efficient, including:
 
 ### 🔹 **Basic Features**
 - 🕒 **Tells the current time**
