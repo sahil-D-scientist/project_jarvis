@@ -74,7 +74,8 @@ Before running Jarvis, ensure you have the following installed:
    python Main1.py
    ```
 
-3. 🎤 **Speak commands**, have fun, and enjoy interacting with # <span style="color:red;">Jarvis</span>! 😃🎶
+3. 🎤 **Speak commands**, have fun, and enjoy interacting with <span style="color:red;">**Jarvis**</span>! 😃🎶
+
 
 
 ---
