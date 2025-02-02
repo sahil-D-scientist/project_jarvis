@@ -37,6 +37,9 @@ Jarvis is designed to be your **personal AI assistant**, capable of handling a v
 - 📈 **Math Calculator**: Voice-powered arithmetic operations.
 - 🔄 **System Commands**: Can **shut down, restart, or open essential apps**.
 
+  
+- Many more.....
+
 ---
 
 ## 🖥️ GUI Interface with PyQt5
