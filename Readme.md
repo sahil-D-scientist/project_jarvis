@@ -61,6 +61,7 @@ Here is a preview of the **interactive GUI dashboard** built using `PyQt5`:
 
 ![Jarvis AI Dashboard](assets/Dashboard.png)
 
+
 ---
 
 ## 🚀 How to Run the Project
