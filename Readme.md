@@ -65,13 +65,13 @@ Before running Jarvis, ensure you have the following installed:
 ### 📌 Running the Assistant
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-repo-name/Jarvis-AI.git
+   https://github.com/sahil-D-scientist/project_jarvis.git
    cd Jarvis-AI
    ```
 
 2. **Run the Jarvis Assistant GUI**:
    ```sh
-   python Main1.py
+   python Main.py
    ```
 
 3. 🎤 **Speak commands**, have fun, and enjoy interacting with <span style="color:red;"><b>Jarvis</b></span>! 😃🎶
