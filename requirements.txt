@@ -1,0 +1,19 @@
+asyncio
+beautifulsoup4
+feedparser
+freegames
+googletrans==4.0.0-rc1  # Latest working version
+keyboard
+pygame
+pydictionary
+pyautogui
+pyjokes
+pyqt5
+pyttsx3
+pywhatkit
+pytz
+requests
+speechrecognition
+turtle
+wikipedia
+word2number
