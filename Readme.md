@@ -59,7 +59,7 @@ Jarvis AI comes with an **interactive graphical interface** built using `PyQt5`.
 
 Here is a preview of the **interactive GUI dashboard** built using `PyQt5`:
 
-![Jarvis AI Dashboard](assets/dashboard.png)
+![Jarvis AI Dashboard](assets/Dashboard.png)
 
 ---
 
