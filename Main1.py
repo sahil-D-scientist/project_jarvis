@@ -113,7 +113,7 @@ def run_alexa():
                 os.system("shutdown -h now")
 
         elif "who made you" in command: #checked
-            talk("I am the creation os sir Sahil")
+            talk("I am the creation of Sahil sir")
 
         elif "open a website" in command: #checked
             talk("Which website should I open?")
